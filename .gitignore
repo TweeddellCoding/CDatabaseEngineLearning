@@ -37,3 +37,4 @@
 
 #custom project file
 *.dat
+*.DS_Store

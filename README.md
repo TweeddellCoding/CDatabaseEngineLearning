@@ -24,4 +24,5 @@ Delete:
 ./tpqdb [FILENAME] d [RECORDID]
 
 Maximum row count is currently set to 1000
+
 Maximum data length is currently set to 512 for every field.
